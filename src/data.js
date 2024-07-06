@@ -1,10 +1,9 @@
 // eslint-disable-next-line no-unused-vars
 const data = [
   {
-    id: 1,
     fname: "Mejid",
     lname: "Netcrawler",
-    lastword: "The Money Is The Motive",
+    lastword: "",
     photo: "mejid-min.jpg",
     sampleImages: [
       "mejid-min.jpg",
@@ -19,6 +18,7 @@ const data = [
     fname: "Dave",
     lname: "Woy yoy",
     lastword: "አትለኝም!! ... ሁላችንም አስመሳዮች ነን !",
+    longText: "",
     photo: "dave-min.jpg",
     sampleImages: [
       "dave-min.jpg",
@@ -30,10 +30,10 @@ const data = [
     ],
   },
   {
-    id: 2,
     fname: "Henok",
     lname: "Henooks",
     lastword: "selam selam Enoch ebalalew",
+    longText: "",
     photo: "enoch-min.jpg",
     sampleImages: [
       "mejid-min.jpg",
@@ -45,25 +45,25 @@ const data = [
     ],
   },
   {
-    id: 3,
     fname: "Eyoas",
     lname: "Eyosi",
     lastword: "Haily I know u mish ur mash ",
+    longText: "",
     photo: "eyoas-min.jpg",
     sampleImages: [
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
+      "eyoas1.jpg",
+      "eyoas2.jpg",
+      "eyoas3.jpg",
+      "eyoas4.jpg",
+      "eyoas5.jpg",
       "mejid-min.jpg",
     ],
   },
   {
-    id: 4,
     fname: "Abel",
     lname: "Paps",
     lastword: "Tenu is My Mother ",
+    longText: "",
     photo: "abel-min.jpg",
     sampleImages: [
       "mejid-min.jpg",
@@ -75,10 +75,10 @@ const data = [
     ],
   },
   {
-    id: 5,
     fname: "Barnabas",
     lname: "Barni",
     lastword: "Niggas 🥷 Be Counting ME up",
+    longText: "",
     photo: "barni-min.jpg",
     sampleImages: [
       "mejid-min.jpg",
@@ -90,10 +90,10 @@ const data = [
     ],
   },
   {
-    id: 5,
     fname: "Thomas",
     lname: "Tomi Boi",
     lastword: "Im Sexy and i Know it",
+    longText: "",
     photo: "tomi-min.jpg",
     sampleImages: [
       "mejid-min.jpg",
@@ -105,10 +105,10 @@ const data = [
     ],
   },
   {
-    id: 6,
     fname: "Kenhirian",
     lname: "Kenji",
     lastword: "Everyday MILFs be testing me Ah !",
+    longText: "",
     photo: "kenji-min.jpg",
     sampleImages: [
       "mejid-min.jpg",
@@ -120,28 +120,44 @@ const data = [
     ],
   },
   {
-    id: 8,
     fname: "Nuredin",
     lname: "Nura",
-    lastword: "I do Snaps For A living!",
+    lastword: "Leave Your Legacy !",
+    longText: "",
     photo: "nura-min.jpg",
     sampleImages: [
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
+      "nura1.jpg",
+      "nura2.jpg",
+      "nura3.jpg",
+      "nura4.jpg",
+      "nura5.jpg",
+      "nura6.jpg",
     ],
   },
   {
-    id: 9,
+    fname: "Eyob Dula",
+    lname: "Eyoba",
+    lastword: "የረዳኝን እግዚአብሔርን አመሰግናለሁ  መዝ 12፥6",
+    longText:
+      "The past three years were a period in which I had not accomplished certain goals, and they were not my most successful. However, it was during this time that I learned the most valuable lessons for my life.",
+    photo: "eyob-min.jpg",
+    sampleImages: [
+      "eyob1.jpg",
+      "eyob2.jpg",
+      "eyob3.jpg",
+      "eyob4.jpg",
+      "eyob5.jpg",
+      "eyob-min.jpg",
+    ],
+  },
+  {
     fname: "Abduljelil",
     lname: "AJ",
     lastword: "ፈጀኋቸው!! ምኖቹን እንዳትሉኝ you know me  ",
-    photo: "abdu-min.jpg",
+    longText: "",
+    photo: "aj1.jpg",
     sampleImages: [
-      "mejid-min.jpg",
+      "aj2.jpg",
       "mejid-min.jpg",
       "mejid-min.jpg",
       "mejid-min.jpg",
@@ -150,10 +166,10 @@ const data = [
     ],
   },
   {
-    id: 10,
     fname: "Dagmawi",
     lname: "Dagi Daddy ah!",
     lastword: "Son Of A Bald !! or Should i say ... የመላጣ ልጅ ",
+    longText: "",
     photo: "dagi-min.jpg",
     sampleImages: [
       "mejid-min.jpg",
@@ -165,10 +181,10 @@ const data = [
     ],
   },
   {
-    id: 11,
     fname: "Bereket",
     lname: "Beki",
     lastword: "በህይወቴ ደስተኛ ነኝ",
+    longText: "",
     photo: "beki-min.jpg",
     sampleImages: [
       "mejid-min.jpg",
@@ -177,6 +193,22 @@ const data = [
       "mejid-min.jpg",
       "mejid-min.jpg",
       "mejid-min.jpg",
+    ],
+  },
+  {
+    fname: "Biruk",
+    lname: "Dejene",
+    lastword: "Through God's Grace Alone, Without My Efforts",
+    longText:
+      "Stay curious, work hard, and embrace challenges. Your dedication will shape your future. Support each other, stay positive, and always strive for excellence. በጣም ትናፍቁኛላችሁ :: ሁላችሁንም እጅግ በጣም ወዳችኃለው🥰",
+    photo: "bura5.jpg",
+    sampleImages: [
+      "bura1.jpg",
+      "bura2.jpg",
+      "bura3.jpg",
+      "bura4.jpg",
+      "bura5.jpg",
+      "bura6.jpg",
     ],
   },
 ];

@@ -56,12 +56,8 @@ function Cards() {
                     <p className="name">{item.fname}</p>
                     <p className="position">{item.lname}</p>
                   </div>
-                  <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Cupiditate, explicabo. Debitis consectetur, vitae
-                    perferendis minus soluta nulla tenetur ut dolores esse est
-                    fugiat quibusdam delectus! Consectetur nulla animi veniam!
-                    In.
+                  <p id="longText">
+                    📌 {item.longText}
                   </p>
                 </div>
                 {/* Images grid */}
