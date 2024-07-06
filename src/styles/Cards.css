@@ -1,0 +1,149 @@
+.responsive-container-block {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 300px; /* Fixed width for all cards */
+  min-height: 300px; /* Minimum height to ensure consistent size */
+  background-color: white;
+  padding: 20px;
+  border: 2px solid black;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.name-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: 900;
+  color: rgb(51, 51, 51);
+  margin: 0;
+}
+
+.position {
+  font-size: 18px;
+  color: rgb(51, 51, 51);
+  margin: 0;
+}
+
+.lastword {
+  font-size: 16px;
+  color: #777;
+  margin-bottom: 10px;
+}
+
+.photo {
+  margin-left: auto; /* Move the image to the right */
+}
+
+.photo img {
+  border-radius: 50%;
+  width: 150px; /* Adjust image size */
+  height: 150px; /* Adjust image size */
+  object-fit: cover;
+  margin-top: 20px;
+}
+
+.quote-svg {
+  width: 35px;
+  height: auto;
+}
+
+.popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000; /* Ensure the popup is above other elements */
+  opacity: 0; /* Start with opacity 0 */
+  visibility: hidden; /* Start hidden */
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.popup-overlay.active {
+  opacity: 1; /* Show popup */
+  visibility: visible; /* Show popup */
+}
+
+.popup-content {
+  width: 70%;
+  height: 70%;
+  background-color: white;
+  padding: 20px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+.close-button {
+  position: absolute;
+  float: left;
+  top: 70px;
+  right: 90px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
+.profile-description {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Align items to the left */
+  width: 40%; /* Adjust width as needed */
+  height: 100%;
+  padding: 20px;
+  text-align: left; /* Ensure text is aligned to the left */
+  overflow-y: auto; /* Scroll if content overflows */
+}
+
+.profile-description img {
+  width: 150px; /* Adjust the image size as needed */
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  align-self: flex-start; /* Align the photo to the left */
+  margin-bottom: 20px; /* Add some space below the photo */
+}
+
+.popup-images {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 5px;
+  width: 90%; /* Adjust width to fit the remaining space */
+  height: 100%;
+  overflow-y: auto; /* Scroll if images overflow */
+}
+
+.popup-images img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 5px;
+}

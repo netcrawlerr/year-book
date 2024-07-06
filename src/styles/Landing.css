@@ -1,0 +1,53 @@
+html {
+  scroll-behavior: smooth;
+}
+.landing-container {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center;
+  height: 100vh;
+  background: url("/bg-min.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-color: #000e3e; Darker blueish violet background */
+  color: white;
+  text-align: center;
+}
+.yearbook-title {
+  font-size: 6rem;
+  font-weight: bold;
+  line-height: 1.2;
+  margin: 0;
+}
+.yearbook-title span {
+  display: block;
+  font-family: "Poppins", sans-serif;
+}
+.yearbook-title .year {
+  /* color: red; */
+  color: rgb(7, 130, 187);
+}
+.yearbook-title .book {
+  color: orange;
+}
+.yearbook-title .title {
+  color: yellow;
+}
+.department {
+  font-size: 1.3rem;
+  font-family: "Poppins", sans-serif;
+  margin-top: 2rem;
+  color: rgb(60, 206, 145);
+}
+
+.nav {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 20px;
+  column-gap: 30px;
+}
+.nav span {
+  font-size: 1.3rem;
+}
