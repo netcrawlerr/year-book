@@ -151,6 +151,21 @@ const data = [
     ],
   },
   {
+    fname: "Amanuel Gadissa",
+    lname: "Macroni",
+    lastword: "....",
+    longText: "....",
+    photo: "aman2.jpg",
+    sampleImages: [
+      "aman1.JPG",
+      "aman2.jpg",
+      "aman3.jpg",
+      "aman4.jpg",
+      "aman5.jpg",
+      "aman6.JPG",
+    ],
+  },
+  {
     fname: "Abduljelil",
     lname: "AJ",
     lastword: "ፈጀኋቸው!! ምኖቹን እንዳትሉኝ you know me  ",
