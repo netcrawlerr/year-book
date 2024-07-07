@@ -39,12 +39,11 @@ function Cards() {
           {visibleIndex === index && (
             <div className="popup-overlay active">
               {" "}
-              {/* Added 'active' class */}
+             
               <button className="close-button" onClick={handleClose}>
                 &times;
               </button>
               <div className="popup-content">
-                {/* Profile description */}
                 <div className="profile-description">
                   <div>
                     <img
@@ -56,11 +55,9 @@ function Cards() {
                     <p className="name">{item.fname}</p>
                     <p className="position">{item.lname}</p>
                   </div>
-                  <p id="longText">
-                    📌 {item.longText}
-                  </p>
+                  <p id="longText">📌 {item.longText}</p>
                 </div>
-                {/* Images grid */}
+                
                 <div className="popup-images">
                   {item.sampleImages &&
                     item.sampleImages.map((image, imgIndex) => (

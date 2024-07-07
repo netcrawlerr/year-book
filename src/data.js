@@ -1,17 +1,19 @@
 // eslint-disable-next-line no-unused-vars
 const data = [
   {
-    fname: "Mejid",
+    fname: "𝕄𝕖𝕛𝕚𝕕",
     lname: "Netcrawler",
-    lastword: "",
+    lastword: "The Money Is The Motive !💸💰",
+    longText:
+      "Son Of A Gun We made it through. And This is my token of rememberance for ya all.",
     photo: "mejid-min.jpg",
     sampleImages: [
+      "mejid1.jpg",
+      "mejid2.jpg",
       "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
+      "mejid4.jpg",
+      "mejid5.jpg",
+      "mejid6.jpg",
     ],
   },
   {
@@ -55,8 +57,8 @@ const data = [
       "eyoas2.jpg",
       "eyoas3.jpg",
       "eyoas4.jpg",
-      "eyoas5.jpg",
-      "mejid-min.jpg",
+      "eyoas-min.jpg",
+      "eyoas6.jpg",
     ],
   },
   {
@@ -81,12 +83,12 @@ const data = [
     longText: "",
     photo: "barni-min.jpg",
     sampleImages: [
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
+      "barni1.jpg",
+      "barni2.jpg",
+      "barni3.jpg",
+      "barni4.jpg",
+      "barni5.jpg",
+      "barni6.jpg",
     ],
   },
   {
@@ -123,7 +125,8 @@ const data = [
     fname: "Nuredin",
     lname: "Nura",
     lastword: "Leave Your Legacy !",
-    longText: "",
+    longText:
+      "Life’s purpose?the purpose of life is to worship and serve Allah, live righteously, and strive for eternal salvation in the hereafter. Muslims believe that this life is a test and preparation for the afterlife.",
     photo: "nura-min.jpg",
     sampleImages: [
       "nura1.jpg",
@@ -153,8 +156,9 @@ const data = [
   {
     fname: "Amanuel Gadissa",
     lname: "Macroni",
-    lastword: "....",
-    longText: "....",
+    lastword: "Trust The Process ! 🔫",
+    longText:
+      "Breaking news:No class for today🤸‍♀,mejid' macroni,Ye lab kulf manga new?'Kefe yet neh? 'Library, ke moti ategeb' Beki 'rice rice baby' ,Kid 'the teacher is waiting us ,please be fast,🏃🏃 demo ye binder birr laku!' Abeni'Cap. Yet neh?,benja kulf askemtual?'Nefsi aroge libs kale....... I miss you!",
     photo: "aman2.jpg",
     sampleImages: [
       "aman1.JPG",
@@ -170,14 +174,14 @@ const data = [
     lname: "AJ",
     lastword: "ፈጀኋቸው!! ምኖቹን እንዳትሉኝ you know me  ",
     longText: "",
-    photo: "aj1.jpg",
+    photo: "aj6.jpg",
     sampleImages: [
+      "aj1.jpg",
       "aj2.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
+      "aj3.jpg",
+      "aj4.jpg",
+      "aj5.jpg",
+      "aj6.jpg",
     ],
   },
   {
