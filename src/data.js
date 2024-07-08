@@ -34,7 +34,7 @@ const data = [
   {
     fname: "Henok",
     lname: "Henooks",
-    lastword: "selam selam Enoch ebalalew",
+    lastword: "last word goes here",
     longText: "",
     photo: "enoch-min.jpg",
     sampleImages: [
@@ -49,7 +49,7 @@ const data = [
   {
     fname: "Eyoas",
     lname: "Eyosi",
-    lastword: "Haily I know u mish ur mash ",
+    lastword: "Hly I know u mish ur mash ",
     longText: "",
     photo: "eyoas-min.jpg",
     sampleImages: [
@@ -64,7 +64,7 @@ const data = [
   {
     fname: "Abel",
     lname: "Paps",
-    lastword: "Tenu is My Mother ",
+    lastword: "last word goes here ",
     longText: "",
     photo: "abel-min.jpg",
     sampleImages: [
@@ -79,8 +79,8 @@ const data = [
   {
     fname: "Barnabas",
     lname: "Barni",
-    lastword: "Niggas 🥷 Be Counting ME up",
-    longText: "",
+    lastword: "Don't be afraid",
+    longText: "Niggas be counting me out. Im counting my bullets i'm loading my clips and getting them hitNiggas be counting me out. Im counting my bullets i'm loading my clips and getting them hit",
     photo: "barni-min.jpg",
     sampleImages: [
       "barni1.jpg",
@@ -92,9 +92,9 @@ const data = [
     ],
   },
   {
-    fname: "Thomas",
+    fname: "Tomas",
     lname: "Tomi Boi",
-    lastword: "Im Sexy and i Know it",
+    lastword: "last word goes here",
     longText: "",
     photo: "tomi-min.jpg",
     sampleImages: [
@@ -109,7 +109,7 @@ const data = [
   {
     fname: "Kenhirian",
     lname: "Kenji",
-    lastword: "Everyday MILFs be testing me Ah !",
+    lastword: "last word goes here",
     longText: "",
     photo: "kenji-min.jpg",
     sampleImages: [
@@ -164,7 +164,7 @@ const data = [
       "aman1.JPG",
       "aman2.jpg",
       "aman3.jpg",
-      "aman4.jpg",
+      "aman4.JPG",
       "aman5.jpg",
       "aman6.JPG",
     ],
@@ -172,7 +172,8 @@ const data = [
   {
     fname: "Abduljelil",
     lname: "AJ",
-    lastword: "ፈጀኋቸው!! ምኖቹን እንዳትሉኝ you know me  ",
+    lastword:
+      "Allah does not burden a soul beyond that it can bear” [Al-Baqarah 2:286]",
     longText: "",
     photo: "aj6.jpg",
     sampleImages: [

@@ -12,8 +12,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 300px; /* Fixed width for all cards */
-  min-height: 300px; /* Minimum height to ensure consistent size */
+  width: 300px;
+  min-height: 300px;
   background-color: white;
   padding: 20px;
   border: 2px solid black;
@@ -49,22 +49,24 @@
 }
 
 #longText {
-  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px,
+    rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px,
+    rgba(0, 0, 0, 0.09) 0px 32px 16px;
   padding: 20px;
   background-color: rgb(235, 182, 83);
   font-weight: bold;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   /* background-color: rgb(83, 184, 227); */
 }
 
 .photo {
-  margin-left: auto; /* Move the image to the right */
+  margin-left: auto;
 }
 
 .photo img {
   border-radius: 50%;
-  width: 150px; /* Adjust image size */
-  height: 150px; /* Adjust image size */
+  width: 150px;
+  height: 150px;
   object-fit: cover;
   margin-top: 20px;
 }
@@ -84,15 +86,15 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  z-index: 1000; /* Ensure the popup is above other elements */
-  opacity: 0; /* Start with opacity 0 */
-  visibility: hidden; /* Start hidden */
+  z-index: 1000;
+  opacity: 0;
+  visibility: hidden;
   transition: opacity 0.3s ease, visibility 0.3s ease;
 }
 
 .popup-overlay.active {
-  opacity: 1; /* Show popup */
-  visibility: visible; /* Show popup */
+  opacity: 1;
+  visibility: visible;
 }
 
 .popup-content {
@@ -124,30 +126,30 @@
 .profile-description {
   display: flex;
   flex-direction: column;
-  align-items: flex-start; /* Align items to the left */
-  width: 40%; /* Adjust width as needed */
+  align-items: flex-start;
+  width: 40%;
   height: 100%;
   padding: 20px;
-  text-align: left; /* Ensure text is aligned to the left */
-  overflow-y: auto; /* Scroll if content overflows */
+  text-align: left;
+  overflow-y: auto;
 }
 
 .profile-description img {
-  width: 150px; /* Adjust the image size as needed */
+  width: 150px;
   height: 150px;
   object-fit: cover;
   border-radius: 50%;
-  align-self: flex-start; /* Align the photo to the left */
-  margin-bottom: 20px; /* Add some space below the photo */
+  align-self: flex-start;
+  margin-bottom: 20px;
 }
 
 .popup-images {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 5px;
-  width: 90%; /* Adjust width to fit the remaining space */
+  width: 90%;
   height: 100%;
-  overflow-y: auto; /* Scroll if images overflow */
+  overflow-y: auto;
 }
 
 .popup-images img {

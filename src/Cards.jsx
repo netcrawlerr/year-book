@@ -39,7 +39,6 @@ function Cards() {
           {visibleIndex === index && (
             <div className="popup-overlay active">
               {" "}
-             
               <button className="close-button" onClick={handleClose}>
                 &times;
               </button>
@@ -57,7 +56,7 @@ function Cards() {
                   </div>
                   <p id="longText">📌 {item.longText}</p>
                 </div>
-                
+
                 <div className="popup-images">
                   {item.sampleImages &&
                     item.sampleImages.map((image, imgIndex) => (

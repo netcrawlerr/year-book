@@ -11,6 +11,8 @@ button {
   border-radius: 6px;
 }
 
+/* unnecessary */
+
 /* button:before, button:after {
  content: "";
  position: absolute;
