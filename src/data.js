@@ -49,7 +49,7 @@ const data = [
   {
     fname: "Eyoas",
     lname: "Eyosi",
-    lastword: "Hly I know u mish ur mash ",
+    lastword: "From effortless learning to unforgettable smiles, I’ve lived my dreams like Em's track",
     longText: "",
     photo: "eyoas-min.jpg",
     sampleImages: [
@@ -236,10 +236,10 @@ const data = [
   },
   {
     fname: "Zeynedin",
-    lname: "Zeynu",
+    lname: "Zizu",
     lastword: "ለዐለማቱ ጌታ አላህ ምሰጋና ሁሉ የተገባው ነው!",
     longText:
-      "",
+      "Hey guys,I just wanted to say a huge thanks to all of you who were part of my university journey. You all made it an amazing experience, and I miss you a ton! Thanks for all the laughs, late-night study sessions, and everything in between. Hope to see you soon and catch up.With tears...Take care and keep rocking!Love CS🥰",
     photo: "zeynu-min.jpg",
     sampleImages: [
       "zeynu1.jpg",
