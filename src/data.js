@@ -5,7 +5,7 @@ const data = [
     lname: "Netcrawler",
     lastword: "The Money Is The Motive !💸💰",
     longText:
-      "Son Of A Gun We made it through. And This is my token of rememberance for ya all.",
+      "Son Of A Gun We made it through. And This is my token of rememberance for ya all.I hope we find peace in our separate ways and be still in full to get reunited someday.",
     photo: "mejid-min.jpg",
     sampleImages: [
       "mejid1.jpg",
@@ -68,19 +68,20 @@ const data = [
     longText: "",
     photo: "abel-min.jpg",
     sampleImages: [
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
+      "papa1.jpg",
+      "papa2.jpg",
+      "papa3.jpg",
+      "papa4.jpg",
+      "papa5.jpg",
+      "papa6.jpg",
     ],
   },
   {
     fname: "Barnabas",
     lname: "Barni",
     lastword: "Don't be afraid",
-    longText: "Niggas be counting me out. Im counting my bullets i'm loading my clips and getting them hitNiggas be counting me out. Im counting my bullets i'm loading my clips and getting them hit",
+    longText:
+      "Nothing lasts forever, but at least we've got these memories. In a world where everything changes, our memories are the precious moments we keep. They remind us of the good times, the lessons we've learned, and the people we've loved.",
     photo: "barni-min.jpg",
     sampleImages: [
       "barni1.jpg",
@@ -94,31 +95,32 @@ const data = [
   {
     fname: "Tomas",
     lname: "Tomi Boi",
-    lastword: "last word goes here",
-    longText: "",
+    lastword: "metahulsh merkato sefere",
+    longText:
+      "ከ ሃዋሳ ተነስቼ beayertena adrge ... be torayloch shortcut  ..beabent aderge yhew metahulsh merkato sefere",
     photo: "tomi-min.jpg",
     sampleImages: [
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
+      "tomi1.jpg",
+      "tomi2.jpg",
+      "tomi3.jpg",
+      "tomi4.jpg",
+      "tomi5.jpg",
+      "tomi6.jpg",
     ],
   },
   {
-    fname: "Kenhirian",
+    fname: "Kenehirian",
     lname: "Kenji",
-    lastword: "last word goes here",
+    lastword: "God Did !",
     longText: "",
     photo: "kenji-min.jpg",
     sampleImages: [
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
+      "kenji1.jpg",
+      "kenji2.jpg",
+      "kenji3.jpg",
+      "kenji4.jpg",
+      "kenji5.jpg",
+      "kenji6.jpg",
     ],
   },
   {
@@ -174,7 +176,8 @@ const data = [
     lname: "AJ",
     lastword:
       "Allah does not burden a soul beyond that it can bear” [Al-Baqarah 2:286]",
-    longText: "",
+    longText:
+      "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
     photo: "aj6.jpg",
     sampleImages: [
       "aj1.jpg",
@@ -192,12 +195,12 @@ const data = [
     longText: "",
     photo: "dagi-min.jpg",
     sampleImages: [
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
+      "dagi1.jpg",
+      "dagi2.jpg",
+      "dagi3.jpg",
+      "dagi4.jpg",
+      "dagi5.jpg",
+      "dagi6.jpg",
     ],
   },
   {
@@ -217,7 +220,7 @@ const data = [
   },
   {
     fname: "Biruk",
-    lname: "Dejene",
+    lname: "Biruuuuk",
     lastword: "Through God's Grace Alone, Without My Efforts",
     longText:
       "Stay curious, work hard, and embrace challenges. Your dedication will shape your future. Support each other, stay positive, and always strive for excellence. በጣም ትናፍቁኛላችሁ :: ሁላችሁንም እጅግ በጣም ወዳችኃለው🥰",
@@ -229,6 +232,22 @@ const data = [
       "bura4.jpg",
       "bura5.jpg",
       "bura6.jpg",
+    ],
+  },
+  {
+    fname: "Zeynedin",
+    lname: "Zeynu",
+    lastword: "ለዐለማቱ ጌታ አላህ ምሰጋና ሁሉ የተገባው ነው!",
+    longText:
+      "",
+    photo: "zeynu-min.jpg",
+    sampleImages: [
+      "zeynu1.jpg",
+      "zeynu2.jpg",
+      "zeynu3.jpg",
+      "zeynu4.jpg",
+      "zeynu5.jpg",
+      "zeynu6.jpg",
     ],
   },
 ];
