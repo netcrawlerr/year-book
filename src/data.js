@@ -49,7 +49,8 @@ const data = [
   {
     fname: "Eyoas",
     lname: "Eyosi",
-    lastword: "From effortless learning to unforgettable smiles, I’ve lived my dreams like Em's track",
+    lastword:
+      "From effortless learning to unforgettable smiles, I’ve lived my dreams like Em's track",
     longText: "",
     photo: "eyoas-min.jpg",
     sampleImages: [
@@ -248,6 +249,21 @@ const data = [
       "zeynu4.jpg",
       "zeynu5.jpg",
       "zeynu6.jpg",
+    ],
+  },
+  {
+    fname: "Ziyad",
+    lname: "Zizu",
+    lastword: "Surviving Is Winning Everything Else Is Bullshit",
+    longText: "",
+    photo: "ziyad2.jpg",
+    sampleImages: [
+      "ziyad1.png",
+      "ziyad2.jpg",
+      "ziyad3.png",
+      "ziyad4.jpg",
+      "ziyad5.jpg",
+      "ziyad6.jpg",
     ],
   },
 ];
