@@ -4,7 +4,7 @@ function Landing() {
   return (
     <>
       <div className="landing-container poppins-regular">
-        <div className="nav">
+        <div className="navv">
           <span>
             <NavBtn />
           </span>

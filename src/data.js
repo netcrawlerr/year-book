@@ -3,13 +3,14 @@ const data = [
   {
     fname: "𝕄𝕖𝕛𝕚𝕕",
     lname: "Netcrawler",
-    lastword: "The Money Is The Motive !💸💰",
+    lastword:
+      "The Money Is The Motive !💸💰..... I get my cardio from Running code",
     longText:
-      "Son Of A Gun We made it through. And This is my token of rememberance for ya all.I hope we find peace in our separate ways and be still in full to get reunited someday.",
+      "Son Of A Gun We made it through. And This is YEAR BOOK GALLARY my token of rememberance for ya all.I hope we find peace in our separate ways and be still in full to get reunited someday.",
     photo: "mejid-min.jpg",
     sampleImages: [
       "mejid1.jpg",
-      "mejid2.jpg",
+      "mejid22.jpg",
       "mejid-min.jpg",
       "mejid4.jpg",
       "mejid5.jpg",
@@ -71,7 +72,7 @@ const data = [
     sampleImages: [
       "papa1.jpg",
       "papa2.jpg",
-      "papa3.jpg",
+      "abel.gif",
       "papa4.jpg",
       "papa5.jpg",
       "papa6.jpg",
@@ -190,9 +191,9 @@ const data = [
     ],
   },
   {
-    fname: "Dagmawi",
-    lname: "Dagi Daddy ah!",
-    lastword: "Son Of A Bald !! or Should i say ... የመላጣ ልጅ ",
+    fname: "Dagim",
+    lname: "Dagi Daddy",
+    lastword: "I CAME, I SAW, I CAME, I SAW,  I TOOK A NAP! ... የመላጣ ልጅ ",
     longText: "",
     photo: "dagi-min.jpg",
     sampleImages: [
@@ -202,6 +203,22 @@ const data = [
       "dagi4.jpg",
       "dagi5.jpg",
       "dagi6.jpg",
+    ],
+  },
+  {
+    fname: "Bekur",
+    lname: "bekurrr",
+    lastword: "እግዚአብሄር ይመስገን ",
+    longText:
+      "My top 3 OSI layers based on aura  Application layer: the one on top.................. Data Link Layer: Just sounds cool...... Presentation Layer: Encryption is cool too",
+    photo: "bekur2.jpg",
+    sampleImages: [
+      "bekur1.jpg",
+      "bekur2.jpg",
+      "bekur3.jpg",
+      "bekur4.jpg",
+      "bekur5.jpg",
+      "bekur6.jpg",
     ],
   },
   {
@@ -236,6 +253,37 @@ const data = [
     ],
   },
   {
+    fname: "Biruk",
+    lname: "Bura",
+    lastword: "እግዚአብሔር አለ!!!",
+    longText:
+      "Enja getan kal yelegnim all the time lene liyu nachu beteley beteley CS temariwoch means temariwoch not forafiwoch 😛 eskene azgnetachu just beka wubet neberachu and emaysera temari yelelebet class beka Cs u guys getan sitasredu andande sitredum des sitlum sitanadum enkuwanm awekuwachu class sigeba fitlefit yetekemete mentsram kayewu abeni tig lay kefe note emiyiz set kalech yab,tsi bedemb emiketatel beki kenji, silk gorguwari be wifim bihon asgorguwari MEJA siketl gorguwari fika,betty (betbach and ine sayat emnigbabawu denez) backbencher eyosi, bura sometimes abeni local bicha kifil serious sewu amare ye kiflachin yewa Abeni emayleyayu guwadegnamoch Selam and Rahwa yemecheresha azg Bura Pastor rezhimuna beselamtawu ej achuwahiwu Ado Aremamedu guregna yasmeselewu Benji, lemaju Dev, angoraguwariwu Hena, gibdawu Dagi, bicycle guy Bela,zimtegnochu Bini and Sami,enkilfamu Barni,tejenajagnuwa Tomy,coolu Robin,Captain Aman,yeclassu mastawesha enat Sari 😘😘 all of u bicha kirtsrits bilachu alachulgn ewedachuwalewu beteseb nachu lene ❤️❤️❤️❤️😍",
+    photo: "buraa1.jpg",
+    sampleImages: [
+      "buraa1.jpg",
+      "buraa2.jpg",
+      "buraa3.jpg",
+      "buraa4.jpg",
+      "buraa5.jpg",
+      "buraa6.jpg",
+    ],
+  },
+  {
+    fname: "Biniam",
+    lname: "Benja ++",
+    lastword: "..",
+    longText: "",
+    photo: "benja1.jpg",
+    sampleImages: [
+      "benja1.jpg",
+      "benja2.jpg",
+      "benja3.jpg",
+      "benja4.jpg",
+      "benja5.jpg",
+      "benja6.jpg",
+    ],
+  },
+  {
     fname: "Zeynedin",
     lname: "Zizu",
     lastword: "ለዐለማቱ ጌታ አላህ ምሰጋና ሁሉ የተገባው ነው!",
@@ -266,6 +314,109 @@ const data = [
       "ziyad6.jpg",
     ],
   },
+  {
+    fname: "Amir",
+    lname: "Emir",
+    lastword:
+      "May Allah grant my parents long life and Jannah (Paradise) الحمد لله",
+    longText:
+      "I'm a passionate junior web developer based in Ethiopia, specializing in full-stack development with a focus on the MERN stack. Fueled by my love for coding and problem-solving, I'm constantly eager to tackle exciting and innovative projects. My commitment lies in continuously improving my skills across the full-stack development spectrum. Let's connect and create something amazing together!",
+    photo: "amir2.jpg",
+    sampleImages: [
+      "amir1.jpg",
+      "amir2.jpg",
+      "amir3.JPG",
+      "amir4.jpg",
+      "amir5.jpg",
+      "amir6.jpg",
+    ],
+  },
+  {
+    fname: "H/Michael",
+    lname: "Haile",
+    lastword: "ጸሎቴን ያልከለከለኝ ምሐረቱንም ከኔ ያላራቀ እግዚ አብሔር ይመስገን መዝ 65፥20",
+    longText: "",
+    photo: "haile4.jpg",
+    sampleImages: [
+      "haile1.jpg",
+      "haile2.jpg",
+      "haile3.jpg",
+      "haile4.jpg",
+      "haile5.jpg",
+      "haile6.jpg",
+    ],
+  },
+  {
+    fname: "Samuel",
+    lname: "Sam",
+    lastword: "God is good all the time",
+    longText: "",
+    photo: "sami5.jpg",
+    sampleImages: [
+      "sami1.jpg",
+      "sami2.jpg",
+      "sami3.jpg",
+      "sami4.jpg",
+      "sami6.jpg",
+      "sami5.jpg",
+    ],
+  },
+  {
+    fname: "H/Eyesus",
+    lname: "Mark",
+    lastword: "Wow! I’m glad that’s over!",
+    longText:
+      "Today marks the end of one journey and the beginning of another. With degree in hand, I feel immense pride and gratitude. To my mentors, friends, and family, thank you for your unwavering support. And Congratulations to my fellow graduates. Today, we stand at the threshold of endless possibilities. Let's embrace them with courage and optimism.Thank you all and congratulations!",
+    photo: "mark2.jpg",
+    sampleImages: [
+      "mark1.jpg",
+      "mark2.jpg",
+      "mark3.jpg",
+      "mark4.jpg",
+      "mark5.jpg",
+      "mark6.jpg",
+    ],
+  },
+  {
+    fname: "Kefyalew",
+    lname: "Kefe",
+    lastword: "የቅድስት ድንግል ማርያም ስጦታ",
+    longText:
+      "አብረን ስላሳለፍናቸው ድንቅ 3 አመታት ሁላቹንም አመሰግናለው። ለወደፊት ሀይወታችሁ መልካሙን እመኝላችኋለው !! ",
+    photo: "kefe2.jpg",
+    sampleImages: [
+      "kefe1.jpg",
+      "kefe2.jpg",
+      "kefe3.jpg",
+      "kefe4.jpg",
+      "kefe5.jpg",
+      "kefe6.jpg",
+    ],
+  },
+  {
+    fname: "Tamrat",
+    lname: "Tame",
+    lastword: "Resilience",
+    longText: "Quiet presence, lasting memories shared.",
+    photo: "tame1.jpg",
+    sampleImages: [
+      "tame1.jpg",
+      "tame2.jpg",
+      "tame3.jpg",
+      "tame4.jpg",
+      "tame5.jpg",
+      "tame6.jpg",
+    ],
+  },
 ];
 
+// function shuffleArray(array) {
+
+//   for (let i = array.length - 1; i > 9; i--) {
+//     const j = Math.floor(Math.random() * (i - 9)) + 9;
+//     [array[i], array[j]] = [array[j], array[i]];
+//   }
+// }
+
+// shuffleArray(data);
 export default data;
