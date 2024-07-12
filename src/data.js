@@ -444,13 +444,13 @@ const data = [
   },
 ];
 
-function shuffleArray(array) {
+// function shuffleArray(array) {
 
-  for (let i = array.length - 1; i > 9; i--) {
-    const j = Math.floor(Math.random() * (i - 9)) + 9;
-    [array[i], array[j]] = [array[j], array[i]];
-  }
-}
+//   for (let i = array.length - 1; i > 9; i--) {
+//     const j = Math.floor(Math.random() * (i - 9)) + 9;
+//     [array[i], array[j]] = [array[j], array[i]];
+//   }
+// }
 
-shuffleArray(data);
+// shuffleArray(data);
 export default data;
