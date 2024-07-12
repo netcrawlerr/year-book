@@ -162,7 +162,7 @@ const data = [
     lname: "Macroni",
     lastword: "Trust The Process ! 🔫",
     longText:
-      "Breaking news:No class for today🤸‍♀,mejid' macroni,Ye lab kulf manga new?'Kefe yet neh? 'Library, ke moti ategeb' Beki 'rice rice baby' ,Kid 'the teacher is waiting us ,please be fast,🏃🏃 demo ye binder birr laku!' Abeni'Cap. Yet neh?,benja kulf askemtual?'Nefsi aroge libs kale....... I miss you!",
+      "Breaking news:No class for today ,mejid' macroni,Ye lab kulf manga new?'Kefe yet neh? 'Library, ke moti ategeb' Beki 'rice rice baby' ,Kid 'the teacher is waiting us ,please be fast,🏃🏃 demo ye binder birr laku!' Abeni'Cap. Yet neh?,benja kulf askemtual?'Nefsi aroge libs kale....... I miss you!",
     photo: "aman2.jpg",
     sampleImages: [
       "aman1.JPG",
