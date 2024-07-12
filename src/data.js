@@ -141,6 +141,53 @@ const data = [
       "nura6.jpg",
     ],
   },
+
+  {
+    fname: "Dagim",
+    lname: "Dagi Daddy",
+    lastword: "I CAME, I SAW, I CAME, I SAW,  I TOOK A NAP! ... የመላጣ ልጅ ",
+    longText: "",
+    photo: "dagi-min.jpg",
+    sampleImages: [
+      "dagi1.jpg",
+      "dagi2.jpg",
+      "dagi3.jpg",
+      "dagi4.jpg",
+      "dagi5.jpg",
+      "dagi6.jpg",
+    ],
+  },
+  {
+    fname: "Bekur",
+    lname: "bekurrr",
+    lastword: "እግዚአብሄር ይመስገን ",
+    longText:
+      "My top 3 OSI layers based on aura  Application layer: the one on top.................. Data Link Layer: Just sounds cool...... Presentation Layer: Encryption is cool too",
+    photo: "bekur2.jpg",
+    sampleImages: [
+      "bekur1.jpg",
+      "bekur2.jpg",
+      "bekur3.jpg",
+      "bekur4.jpg",
+      "bekur5.jpg",
+      "bekur6.jpg",
+    ],
+  },
+  {
+    fname: "Bereket",
+    lname: "Beki",
+    lastword: "በህይወቴ ደስተኛ ነኝ",
+    longText: "",
+    photo: "beki-min.jpg",
+    sampleImages: [
+      "mejid-min.jpg",
+      "mejid-min.jpg",
+      "mejid-min.jpg",
+      "mejid-min.jpg",
+      "mejid-min.jpg",
+      "mejid-min.jpg",
+    ],
+  },
   {
     fname: "Eyob Dula",
     lname: "Eyoba",
@@ -191,99 +238,6 @@ const data = [
     ],
   },
   {
-    fname: "Dagim",
-    lname: "Dagi Daddy",
-    lastword: "I CAME, I SAW, I CAME, I SAW,  I TOOK A NAP! ... የመላጣ ልጅ ",
-    longText: "",
-    photo: "dagi-min.jpg",
-    sampleImages: [
-      "dagi1.jpg",
-      "dagi2.jpg",
-      "dagi3.jpg",
-      "dagi4.jpg",
-      "dagi5.jpg",
-      "dagi6.jpg",
-    ],
-  },
-  {
-    fname: "Bekur",
-    lname: "bekurrr",
-    lastword: "እግዚአብሄር ይመስገን ",
-    longText:
-      "My top 3 OSI layers based on aura  Application layer: the one on top.................. Data Link Layer: Just sounds cool...... Presentation Layer: Encryption is cool too",
-    photo: "bekur2.jpg",
-    sampleImages: [
-      "bekur1.jpg",
-      "bekur2.jpg",
-      "bekur3.jpg",
-      "bekur4.jpg",
-      "bekur5.jpg",
-      "bekur6.jpg",
-    ],
-  },
-  {
-    fname: "Bereket",
-    lname: "Beki",
-    lastword: "በህይወቴ ደስተኛ ነኝ",
-    longText: "",
-    photo: "beki-min.jpg",
-    sampleImages: [
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-    ],
-  },
-  {
-    fname: "Biruk",
-    lname: "Biruuuuk",
-    lastword: "Through God's Grace Alone, Without My Efforts",
-    longText:
-      "Stay curious, work hard, and embrace challenges. Your dedication will shape your future. Support each other, stay positive, and always strive for excellence. በጣም ትናፍቁኛላችሁ :: ሁላችሁንም እጅግ በጣም ወዳችኃለው🥰",
-    photo: "bura5.jpg",
-    sampleImages: [
-      "bura1.jpg",
-      "bura2.jpg",
-      "bura3.jpg",
-      "bura4.jpg",
-      "bura5.jpg",
-      "bura6.jpg",
-    ],
-  },
-  {
-    fname: "Biruk",
-    lname: "Bura",
-    lastword: "እግዚአብሔር አለ!!!",
-    longText:
-      "Enja getan kal yelegnim all the time lene liyu nachu beteley beteley CS temariwoch means temariwoch not forafiwoch 😛 eskene azgnetachu just beka wubet neberachu and emaysera temari yelelebet class beka Cs u guys getan sitasredu andande sitredum des sitlum sitanadum enkuwanm awekuwachu class sigeba fitlefit yetekemete mentsram kayewu abeni tig lay kefe note emiyiz set kalech yab,tsi bedemb emiketatel beki kenji, silk gorguwari be wifim bihon asgorguwari MEJA siketl gorguwari fika,betty (betbach and ine sayat emnigbabawu denez) backbencher eyosi, bura sometimes abeni local bicha kifil serious sewu amare ye kiflachin yewa Abeni emayleyayu guwadegnamoch Selam and Rahwa yemecheresha azg Bura Pastor rezhimuna beselamtawu ej achuwahiwu Ado Aremamedu guregna yasmeselewu Benji, lemaju Dev, angoraguwariwu Hena, gibdawu Dagi, bicycle guy Bela,zimtegnochu Bini and Sami,enkilfamu Barni,tejenajagnuwa Tomy,coolu Robin,Captain Aman,yeclassu mastawesha enat Sari 😘😘 all of u bicha kirtsrits bilachu alachulgn ewedachuwalewu beteseb nachu lene ❤️❤️❤️❤️😍",
-    photo: "buraa1.jpg",
-    sampleImages: [
-      "buraa1.jpg",
-      "buraa2.jpg",
-      "buraa3.jpg",
-      "buraa4.jpg",
-      "buraa5.jpg",
-      "buraa6.jpg",
-    ],
-  },
-  {
-    fname: "Biniam",
-    lname: "Benja ++",
-    lastword: "..",
-    longText: "",
-    photo: "benja1.jpg",
-    sampleImages: [
-      "benja1.jpg",
-      "benja2.jpg",
-      "benja3.jpg",
-      "benja4.jpg",
-      "benja5.jpg",
-      "benja6.jpg",
-    ],
-  },
-  {
     fname: "Zeynedin",
     lname: "Zizu",
     lastword: "ለዐለማቱ ጌታ አላህ ምሰጋና ሁሉ የተገባው ነው!",
@@ -331,19 +285,84 @@ const data = [
       "amir6.jpg",
     ],
   },
+
   {
-    fname: "H/Michael",
-    lname: "Haile",
-    lastword: "ጸሎቴን ያልከለከለኝ ምሐረቱንም ከኔ ያላራቀ እግዚ አብሔር ይመስገን መዝ 65፥20",
-    longText: "",
-    photo: "haile4.jpg",
+    fname: "Biruk",
+    lname: "Biruuuuk",
+    lastword: "Through God's Grace Alone, Without My Efforts",
+    longText:
+      "Stay curious, work hard, and embrace challenges. Your dedication will shape your future. Support each other, stay positive, and always strive for excellence. በጣም ትናፍቁኛላችሁ :: ሁላችሁንም እጅግ በጣም ወዳችኃለው🥰",
+    photo: "bura5.jpg",
     sampleImages: [
-      "haile1.jpg",
-      "haile2.jpg",
-      "haile3.jpg",
-      "haile4.jpg",
-      "haile5.jpg",
-      "haile6.jpg",
+      "bura1.jpg",
+      "bura2.jpg",
+      "bura3.jpg",
+      "bura4.jpg",
+      "bura5.jpg",
+      "bura6.jpg",
+    ],
+  },
+  {
+    fname: "Biniam",
+    lname: "Benja ++",
+    lastword: "..",
+    longText: "",
+    photo: "benja1.jpg",
+    sampleImages: [
+      "benja1.jpg",
+      "benja2.jpg",
+      "benja3.jpg",
+      "benja4.jpg",
+      "benja5.jpg",
+      "benja6.jpg",
+    ],
+  },
+  {
+    fname: "Abenezer",
+    lname: "Abe_ኒ",
+    lastword: "..",
+    longText: "",
+    photo: "abenii1.jpg",
+    sampleImages: [
+      "abenii1.jpg",
+      "abenii2.jpg",
+      "abenii3.jpg",
+      "abenii4.jpg",
+      "abenii5.jpg",
+      "abenii6.jpg",
+    ],
+  },
+
+  {
+    fname: "Biruk",
+    lname: "Bura",
+    lastword: "እግዚአብሔር አለ!!!",
+    longText:
+      "Enja getan kal yelegnim all the time lene liyu nachu beteley beteley CS temariwoch means temariwoch not forafiwoch 😛 eskene azgnetachu just beka wubet neberachu and emaysera temari yelelebet class beka Cs u guys getan sitasredu andande sitredum des sitlum sitanadum enkuwanm awekuwachu class sigeba fitlefit yetekemete mentsram kayewu abeni tig lay kefe note emiyiz set kalech yab,tsi bedemb emiketatel beki kenji, silk gorguwari be wifim bihon asgorguwari MEJA siketl gorguwari fika,betty (betbach and ine sayat emnigbabawu denez) backbencher eyosi, bura sometimes abeni local bicha kifil serious sewu amare ye kiflachin yewa Abeni emayleyayu guwadegnamoch Selam and Rahwa yemecheresha azg Bura Pastor rezhimuna beselamtawu ej achuwahiwu Ado Aremamedu guregna yasmeselewu Benji, lemaju Dev, angoraguwariwu Hena, gibdawu Dagi, bicycle guy Bela,zimtegnochu Bini and Sami,enkilfamu Barni,tejenajagnuwa Tomy,coolu Robin,Captain Aman,yeclassu mastawesha enat Sari 😘😘 all of u bicha kirtsrits bilachu alachulgn ewedachuwalewu beteseb nachu lene ❤️❤️❤️❤️😍",
+    photo: "buraa1.jpg",
+    sampleImages: [
+      "buraa1.jpg",
+      "buraa2.jpg",
+      "buraa3.jpg",
+      "buraa4.jpg",
+      "buraa5.jpg",
+      "buraa6.jpg",
+    ],
+  },
+
+  {
+    fname: "Robin",
+    lname: "Kabash",
+    lastword: "God is good all the time",
+    longText: "",
+    photo: "robin3.jpg",
+    sampleImages: [
+      "robin1.jpg",
+      "robin2.jpg",
+      "robin3.jpg",
+      "robin4.jpg",
+      "robin6.jpg",
+      "robin5.jpg",
     ],
   },
   {
@@ -408,15 +427,30 @@ const data = [
       "tame6.jpg",
     ],
   },
+  {
+    fname: "H/Michael",
+    lname: "Haile",
+    lastword: "ጸሎቴን ያልከለከለኝ ምሐረቱንም ከኔ ያላራቀ እግዚ አብሔር ይመስገን መዝ 65፥20",
+    longText: "",
+    photo: "haile4.jpg",
+    sampleImages: [
+      "haile1.jpg",
+      "haile2.jpg",
+      "haile3.jpg",
+      "haile4.jpg",
+      "haile5.jpg",
+      "haile6.jpg",
+    ],
+  },
 ];
 
-// function shuffleArray(array) {
+function shuffleArray(array) {
 
-//   for (let i = array.length - 1; i > 9; i--) {
-//     const j = Math.floor(Math.random() * (i - 9)) + 9;
-//     [array[i], array[j]] = [array[j], array[i]];
-//   }
-// }
+  for (let i = array.length - 1; i > 9; i--) {
+    const j = Math.floor(Math.random() * (i - 9)) + 9;
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+}
 
-// shuffleArray(data);
+shuffleArray(data);
 export default data;
