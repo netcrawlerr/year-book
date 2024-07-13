@@ -78,3 +78,9 @@ button span {
 #seeCards span {
   font-size: 12px;
 }
+
+@media (max-width: 550px) {
+  .see-cards {
+    display: none;
+  }
+}

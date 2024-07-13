@@ -50,9 +50,9 @@ const data = [
   {
     fname: "Eyoas",
     lname: "Eyosi",
-    lastword:
+    lastword: "Hailey I U Mish Ur Mash 😃",
+    longText:
       "From effortless learning to unforgettable smiles, I’ve lived my dreams like Em's track",
-    longText: "",
     photo: "eyoas-min.jpg",
     sampleImages: [
       "eyoas1.jpg",
@@ -320,7 +320,8 @@ const data = [
   {
     fname: "Abenezer",
     lname: "Abe_ኒ",
-    lastword: "..",
+    lastword:
+      "A man who has never gone to school may steal from a freight car. But if he has a university education, he may steal the whole railroad.",
     longText: "",
     photo: "abenii1.jpg",
     sampleImages: [
@@ -354,8 +355,9 @@ const data = [
     fname: "Robin",
     lname: "Kabash",
     lastword: "God is good all the time",
-    longText: "",
-    photo: "robin3.jpg",
+    longText:
+      "we had a tough time at campus as expected.. tight deadlines, tight schedules, tight group members, food from the school that made our stomachs tight, whether that made me and Bura think twice about lectures.. but as much as it was tough, we made it fun and enjoyable with all the drama that I noticed in the class..We finished this stage of life and off to the hush world.. hopefully we can keep in touch and make it abit less torturing. Keep safe with ur life out there y’all… we only wanna hear good news like Abeny got twins and named one of them Robin🥹😄.. so that when Bura and Beka get into the Ethiopian Football firstTeam and become rich can call us all for a reunion. Until then, I wish you all the best of luck till we meet again!🤝",
+    photo: "robin11.jpg",
     sampleImages: [
       "robin1.jpg",
       "robin2.jpg",

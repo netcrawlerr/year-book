@@ -1,9 +1,8 @@
 import { useState } from "react";
 import data from "./data.js";
 import "./styles/Cards.css";
+import Search from "./Search";
 
-import Form from "react-bootstrap/Form";
-import InputGroup from "react-bootstrap/InputGroup";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function Cards() {
@@ -90,17 +89,17 @@ function Cards() {
   );
 }
 
-function Search({ setSearch }) {
-  return (
-    <Form>
-      <InputGroup className="my-3 m-auto w-50 ">
-        <Form.Control
-          className="border-4"
-          onChange={(e) => setSearch(e.target.value)}
-          placeholder="Type Your Name"
-        />
-      </InputGroup>
-    </Form>
-  );
-}
+// function Search({ setSearch }) {
+//   return (
+//     <Form>
+//       <InputGroup className="my-3 m-auto w-50 ">
+//         <Form.Control
+//           className="border-4"
+//           onChange={(e) => setSearch(e.target.value)}
+//           placeholder="Type Your Name"
+//         />
+//       </InputGroup>
+//     </Form>
+//   );
+// }
 export default Cards;

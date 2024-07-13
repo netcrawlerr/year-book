@@ -113,8 +113,8 @@
 .close-button {
   position: absolute;
   float: left;
-  top: 90px;
-  right: 150px;
+  top: 70px;
+  right: 170px;
   z-index: 1;
   background: none;
   border: none;
@@ -177,6 +177,7 @@
     min-height: 150px;
     padding: 16px;
     font-size: 14px;
+    /* transform: scale(0.9); */
   }
 
   .name-container {
