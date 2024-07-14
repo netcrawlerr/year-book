@@ -25,9 +25,9 @@ function Cards() {
           .filter((item) => {
             return search === ""
               ? item.fname
-              : item.fname.toLowerCase().includes(search);
+              : item.fname.toLowerCase().includes(search.toLowerCase());
           })
-          .map((item, index) =>  (
+          .map((item, index) => (
             <div className="cardd" key={index}>
               <img className="quote-svg" src="/quote.svg" alt="Quote Icon" />
               <p className="lastword">{item.lastword}</p>
