@@ -1,5 +1,7 @@
 import "./styles/EmptySpace.css";
 
+import "./utils/script";
+
 function EmptySpace() {
   return (
     <div className="em" id="cards">

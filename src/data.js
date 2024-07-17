@@ -22,29 +22,78 @@ const data = [
     lname: "Woy yoy",
     lastword: "አትለኝም!! ... ሁላችንም አስመሳዮች ነን !",
     longText: "",
-    photo: "dave-min.jpg",
+    photo: "dave1.jpg",
     sampleImages: [
-      "dave-min.jpg",
-      "dave-min.jpg",
-      "dave-min.jpg",
-      "dave-min.jpg",
-      "dave-min.jpg",
-      "dave-min.jpg",
+      "dave1.jpg",
+      "dave2.jpg",
+      "dave3.jpg",
+      "dave4.jpg",
+      "dave5.jpg",
+      "dave6.jpg",
     ],
   },
   {
     fname: "Henok",
-    lname: "Henooks",
+    lname: "Sebastine",
     lastword: "last word goes here",
     longText: "",
     photo: "enoch-min.jpg",
     sampleImages: [
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
+      "enoch-min.jpg",
+      "enoch2.jpg",
+      "enoch3.jpg",
+      "enoch4.jpg",
+      "enoch5.jpg",
+      "enoch6.jpg",
+    ],
+  },
+  {
+    fname: "Fasika",
+    lname: "Fika",
+    lastword: "Through God's Grace alone, without my efforts",
+    longText:
+      "I am writing this under a message from Mejido and We had the most amazing class, CS 2@24 Grads. I love you so much that I can't express it in words.",
+    photo: "fasi1.JPG",
+    sampleImages: [
+      "fasi1.JPG",
+      "fasi2.JPG",
+      "fasi3.JPG",
+      "fasi4.JPG",
+      "fasi5.JPG",
+      "fasi6.jpg",
+    ],
+  },
+  // Beth HRMN
+  {
+    fname: "Bethlehem",
+    lname: "Beth HRMN",
+    lastword: "",
+    longText: " ",
+    photo: "beth1.jpg",
+    sampleImages: [
+      "beth1.jpg",
+      "beth2.jpg",
+      "beth3.jpg",
+      "beth4.jpg",
+      "beth5.jpg",
+      "beth6.jpg",
+    ],
+  },
+  // yeab apparently
+  {
+    fname: "Yeabsira",
+    lname: "Apparently",
+    lastword: "እመ አምላክ ያረግሽልኝ ነገር ከቃላት በላይ ነው  ",
+    longText:
+      "We are like books. Most people only see our cover, the minority read only the introduction, many people believe the critics. Few will know our content.",
+    photo: "yeab1.jpg",
+    sampleImages: [
+      "yeab1.jpg",
+      "yeab2.jpg",
+      "yeab3.jpg",
+      "yeab4.jpg",
+      "yeab5.jpg",
+      "yeab6.jpg",
     ],
   },
   {
@@ -94,6 +143,50 @@ const data = [
       "barni6.jpg",
     ],
   },
+  // Kid
+  {
+    fname: "Kidist",
+    lname: "kiD",
+    lastword:
+      "ነርቬ ላይ አትቁሙ😡 This gotta be it😂😂 I'll be saying this for the last time😂",
+    longText:
+      "In all that is said but not meant, and in all that is meant but not said Most of Love is Lost. Time is slow when you wait. Time is fast when you're late. Time is deadly when you're sad. Time is short when your happy. Time is endless when you're in pain. Time is long when you feel bored. Time is beautiful when your in love. Time is determined by our feelings and conditions not by our clock.",
+    photo: "kid1.jpg",
+    sampleImages: [
+      "kid1.jpg",
+      "kid2.jpg",
+      "kid3.jpg",
+      "kid4.jpg",
+      "kid5.jpg",
+      "kid6.jpg",
+    ],
+  },
+  // zebib
+  {
+    fname: "X",
+    lname: "X",
+    lastword: "",
+    longText: "",
+    photo: "1.jpg",
+    sampleImages: ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"],
+  },
+  // Tsion
+  {
+    fname: "Tsion",
+    lname: "Tsi",
+    lastword: "We did it በዘነዘና",
+    longText:
+      " I wanna say I'm glad to be part of it all it's been full of emotional rollercoaster but in each and every up and down I'm so glad I had you guys and  I love you for always & forever",
+    photo: "tsi1.jpg",
+    sampleImages: [
+      "tsi1.jpg",
+      "tsi2.jpg",
+      "tsi3.jpg",
+      "tsi4.jpg",
+      "tsi5.jpg",
+      "tsi6.jpg",
+    ],
+  },
   {
     fname: "Tomas",
     lname: "Tomi Boi",
@@ -141,13 +234,39 @@ const data = [
       "nura6.jpg",
     ],
   },
-
+  // Selam
+  {
+    fname: "X",
+    lname: "X",
+    lastword: "",
+    longText: "",
+    photo: "1.jpg",
+    sampleImages: ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"],
+  },
+  // Rahwa Riri
+  {
+    fname: "X",
+    lname: "X",
+    lastword: "",
+    longText: "",
+    photo: "1.jpg",
+    sampleImages: ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"],
+  },
+  // sara
+  {
+    fname: "X",
+    lname: "X",
+    lastword: "",
+    longText: "",
+    photo: "sara1.jpg",
+    sampleImages: [".jpg", ".jpg", ".jpg", ".jpg", ".jpg", ".jpg"],
+  },
   {
     fname: "Dagim",
     lname: "Dagi Daddy",
-    lastword: "I CAME, I SAW, I CAME, I SAW,  I TOOK A NAP! ... የመላጣ ልጅ ",
+    lastword: "I CAME, I SAW, I CAME, I SAW,  I TOOK A NAP ! ... የመላጣ ልጅ ",
     longText: "",
-    photo: "dagi-min.jpg",
+    photo: "dagi1.jpg",
     sampleImages: [
       "dagi1.jpg",
       "dagi2.jpg",
@@ -180,13 +299,48 @@ const data = [
     longText: "",
     photo: "beki-min.jpg",
     sampleImages: [
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
-      "mejid-min.jpg",
+      "beki-min.jpg",
+      "beki2.jpg",
+      "beki3.jpg",
+      "beki4.jpg",
+      "beki5.jpg",
+      "beki6.jpg",
     ],
+  },
+  // Elisabeth
+  {
+    fname: "X",
+    lname: "X",
+    lastword: "",
+    longText: "",
+    photo: "1.jpg",
+    sampleImages: ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"],
+  },
+  // Ebise
+  {
+    fname: "Ebise",
+    lname: "Eb",
+    lastword:
+      "Rejoice in the Lord alway: and again I say, Rejoice. — Philippians 4:4",
+    longText: "",
+    photo: "ebise1.jpg",
+    sampleImages: [
+      "ebise1.jpg",
+      "ebise2.jpg",
+      "ebise3.jpg",
+      "ebise4.jpg",
+      "ebise5.jpg",
+      "ebise6.jpg",
+    ],
+  },
+  // Selam
+  {
+    fname: "X",
+    lname: "X",
+    lastword: "X",
+    longText: "",
+    photo: "..jpg",
+    sampleImages: ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"],
   },
   {
     fname: "Eyob Dula",
@@ -237,6 +391,7 @@ const data = [
       "aj6.jpg",
     ],
   },
+
   {
     fname: "Zeynedin",
     lname: "Zizu",
@@ -305,7 +460,8 @@ const data = [
   {
     fname: "Biniam",
     lname: "Benja ++",
-    lastword: "..",
+    lastword:
+      "የምቆጥረው ጽድቅ የለኝም, አስደስቼው አላውቅም, ግን እንዲያው ወዶኝ በምህረቱ, ለመቆም በቃሁኝ በፊቱ።",
     longText: "",
     photo: "benja1.jpg",
     sampleImages: [
@@ -320,9 +476,9 @@ const data = [
   {
     fname: "Abenezer",
     lname: "Abe_ኒ",
-    lastword:
+    lastword: " Friday 👾",
+    longText:
       "A man who has never gone to school may steal from a freight car. But if he has a university education, he may steal the whole railroad.",
-    longText: "",
     photo: "abenii1.jpg",
     sampleImages: [
       "abenii1.jpg",
@@ -371,7 +527,8 @@ const data = [
     fname: "Samuel",
     lname: "Sam",
     lastword: "God is good all the time",
-    longText: "",
+    longText:
+      "Life doesn't come with a remote... you have to get up and change it yourself. As we move forward, we'll always cherish the moments we've shared. Though our paths may diverge and our lives change, one thing remains constant: our bond of friendship...........To all my friends and dorm mates, thank you for the unforgettable memories and the time we've spent together. No matter where life takes us, our memories will stay forever.",
     photo: "sami5.jpg",
     sampleImages: [
       "sami1.jpg",
@@ -380,6 +537,52 @@ const data = [
       "sami4.jpg",
       "sami6.jpg",
       "sami5.jpg",
+    ],
+  },
+  {
+    fname: "Adonay",
+    lname: "Ado",
+    lastword: "",
+    longText: " ",
+    photo: "ado1.jpg",
+    sampleImages: [
+      "ado1.jpg",
+      "ado2.jpg",
+      "ado3.jpg",
+      "ado4.jpg",
+      "ado6.jpg",
+      "ado5.jpg",
+    ],
+  },
+  {
+    fname: "Abenezer",
+    lname: "Abeni",
+    lastword: "ደግ ነው እግዚአብሔር።",
+    longText:
+      " ² ከዛሬ ጀምሮ እስከ ዘላለም ድረስ የእግዚአብሔር ስም ቡሩክ ይሁን።  ³  ከፀሐይ መውጫ ጀምሮ እስከ መግቢያው ድረስ የእግዚአብሔር ስም ይመስገን።  መዝሙር 113",
+    photo: "abeni1.jpg",
+    sampleImages: [
+      "abeni1.jpg",
+      "abeni2.jpg",
+      "abeni3.jpg",
+      "abeni4.jpg",
+      "abeni6.jpg",
+      "abeni5.jpg",
+    ],
+  },
+  {
+    fname: "Biniam",
+    lname: "Bini",
+    lastword: "",
+    longText: "",
+    photo: "bini1.jpg",
+    sampleImages: [
+      "bini1.jpg",
+      "bini2.jpg",
+      "bini3.jpg",
+      "bini4.jpg",
+      "bini5.jpg",
+      "bini6.jpg",
     ],
   },
   {
@@ -442,6 +645,37 @@ const data = [
       "haile4.jpg",
       "haile5.jpg",
       "haile6.jpg",
+    ],
+  },
+  {
+    fname: "Said Mohamed",
+    lname: "Said",
+    lastword: "",
+    longText: "",
+    photo: "said1.jpg",
+    sampleImages: [
+      "said1.jpg",
+      "said2.jpg",
+      "said3.jpg",
+      "said4.jpg",
+      "said5.jpg",
+      "said6.jpg",
+    ],
+  },
+  {
+    fname: "Adane",
+    lname: "አዴ",
+    lastword: "Every thing happened through him",
+    longText:
+      "As a CS student, not all of my classmates are interested in computers or programming and don't practice it all the time, simply because they know what they are doing and are smart enough to take it for granted.  See you in PHD We will finish as we started !",
+    photo: "adane1.jpg",
+    sampleImages: [
+      "adane1.jpg",
+      "adane2.jpg",
+      "adane3.jpg",
+      "adane4.jpg",
+      "adane5.jpg",
+      "adane6.jpg",
     ],
   },
 ];

@@ -8,6 +8,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 function Cards() {
   const [visibleIndex, setVisibleIndex] = useState(null);
   const [search, setSearch] = useState("");
+  
   const handleSeeMore = (index) => {
     setVisibleIndex(index);
   };
@@ -16,6 +17,7 @@ function Cards() {
     setVisibleIndex(null);
   };
 
+  console.log(search.toLowerCase());
   console.log(typeof data);
   return (
     <>
@@ -25,7 +27,7 @@ function Cards() {
           .filter((item) => {
             return search === ""
               ? item.fname
-              : item.fname.toLowerCase().includes(search.toLowerCase());
+              : item.fname.toLowerCase().includes(search.toLowerCase()); // mobile keyboard problem fix, insanely irritating
           })
           .map((item, index) => (
             <div className="cardd" key={index}>
@@ -85,6 +87,9 @@ function Cards() {
             </div>
           ))}
       </div>
+      <a href="#cards" id="backtotop">
+        <span >Back To Top ⬆️</span>
+      </a>
     </>
   );
 }
